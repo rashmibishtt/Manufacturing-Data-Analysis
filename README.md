@@ -1,1 +1,2 @@
 # Manufacturing-Data-Analysis
+Conducted detailed exploratory data analysis on transaction data to understand the sales patterns among various mobile manufacturers and models. Employed SQL queries to discern the highest-selling brand across years and determined transaction insights for every state. Additionally, analysed market penetration across different locations and prioritized customer segments based on the findings.
